@@ -34,6 +34,8 @@ outcomes?
 
 ## Analysis and Dasboards
 [HealthyLife Clinics Dashboards.xlsx](https://github.com/user-attachments/files/19289334/HealthyLife.Clinics.Dashboards.xlsx)
+![HealthyLife Clinics 2024 Report _](https://github.com/user-attachments/assets/5664786e-adf4-4889-bd90-80b0523f9f13)
+
 
 
 ## Insights & Findings
